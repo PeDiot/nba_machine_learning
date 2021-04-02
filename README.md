@@ -1,2 +1,3 @@
-# nba_machine_learning
-Apply machine learning algorithm to NBA games data
+# Machine Learning applied to NBA games data
+
+
