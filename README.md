@@ -8,7 +8,7 @@ The objective of our project is to predict the odds of winning for each team giv
 
 ## Workflow
 
-The method we use to split the data into is to randomly select 70% of the dates we have in our data. Then we build the train data set using these 70% dates and the test data set is associated to the remaining dates.
+The method we use to split the data is to randomly select 70% of the dates we have in our data. Then we build the train data set using these 70% dates and the test data set is made of the remaining dates.
 
 Once the data set split, the following ML algorithms are trained, then tested:
 
