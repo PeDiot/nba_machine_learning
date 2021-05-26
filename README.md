@@ -19,4 +19,4 @@ Once the data set split, the following ML algorithms are trained, then tested:
 - Bagging & Random forests,
 - Boosted decision trees.
 
-The final step consists of comparing the different models in terms of accuracy in order to pick the one that best predicts the odds of winning an NBA game.
+The final step consists in comparing the different models in terms of accuracy in order to pick the one that best predicts the odds of winning an NBA game.
